@@ -50,7 +50,7 @@
     "through2": "^3"
   },
   "dependencies": {
-    "aws-sdk": "^2",
+    "aws-sdk": "^2.604.0",
     "chalk": "^3.0.0",
     "mime-types": "^2",
     "promised-method": "^1",
